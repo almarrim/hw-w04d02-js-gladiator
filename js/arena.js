@@ -1,4 +1,4 @@
-
+'strict mode'
 export default class Arena {
     constructor(name, gladiators = []) {
         this._name = name;
